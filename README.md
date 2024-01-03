@@ -2,14 +2,20 @@ Real Time Image Dehzaing is the topic of my Diploma Thesis, written in 2011. In 
 
 Recorded results of the modified algorithm with real-life data can be found here:
 
-Heavy Fog
+Heavy Fog: https://youtu.be/fZegaos0ICY
+YOW Ottawa Airport
 
-Heavy Rain
+Heavy Rain: https://youtu.be/kO2XGreDCBg
+CGN Cologne Airport
 
-Heavy Snowstorm
+Heavy Snowstorm: https://youtu.be/svhIh1877Ic
+ZRH Zurich Airport
 
-Light Fog
+Light Fog: https://youtu.be/TwvaS_C-eGs
+CGN Cologne Airport
 
-Light Haze
+Light Haze: https://youtu.be/2FIWnugw8F0
+YOW Ottawa Airport
 
-Thick Fog, Infrared
+Thick Fog, Infrared: https://youtu.be/fFwnGi2zjag
+YOW Ottawa Airport
